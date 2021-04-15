@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_vladex_web_app_name": {
+            "value": null
+        },
+        "virtualNetworks_vladexvnet_name": {
+            "value": null
+        },
+        "serverfarms_ASP_vladexTM87_a90f_name": {
+            "value": null
+        },
+        "virtualNetworks_vladexTM87_vnet_name": {
+            "value": null
+        },
+        "storageAccounts_vladexstorageacc_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_vladexgate_name": {
+            "value": null
+        },
+        "publicIPAddresses_vladexpublicipaddress_name": {
+            "value": null
+        },
+        "virtualMachines_vladexVM4KibanaandElastic_name": {
+            "value": null
+        },
+        "networkInterfaces_vladexvm4kibanaandel696_name": {
+            "value": null
+        },
+        "databaseAccounts_vladexaccname4cosmosdb_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vladexVM4KibanaandElastic_nsg_name": {
+            "value": null
+        }
+    }
+}
