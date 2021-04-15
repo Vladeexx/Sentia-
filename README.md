@@ -10,14 +10,14 @@ https://www.youtube.com/watch?v=5P14Q--Q9vE&ab_channel=JohnSavill
 
 2) Storage Account with Blob Container 
 
-4) Azure Cosmos with MongoDB - per tutorial 
+3) Azure Cosmos with MongoDB - per tutorial 
 
 https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux
 
-5) Private Network in Azure and VM with bigger CPU with Elastic Search and Kibana on it.
-6) Connection from VM to App to pull logs with some kind of script
-7) VPN connection from each HQ to the private network in Azure 
-8) I have found also an Azure front door that can be integrated and is security-wise maybe good addition but I have removed that option because of the cost.
+4) Private Network with virtual netw Gateway in Azure and VM with bigger CPU with Elastic Search and Kibana on that VM
+5) Connection from VM to App to pull logs with some kind of script
+6) VPN connection from each HQ to the private network in Azure 
+7) I have found also an Azure front door that can be integrated and is security-wise maybe good addition but I have removed that option because of the cost.
 
 This is my infrastructure PoC Diagram:
 
